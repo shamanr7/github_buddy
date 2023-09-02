@@ -23,9 +23,6 @@ def play():
     if is_win(user, computer):
         return 'You won!'
 
-
-
-   
     return 'You lost!'
 
 def is_win(player, opponent):
